@@ -34,7 +34,12 @@ You can also filter by platform to see how each one contributes to overall senti
 # Conclusion
 This project provides a comprehensive analysis of public opinion and brand sentiment using social media data, visualized through Power BI. The results can be utilized by marketers, brand strategists, and social media managers to understand user engagement and adjust strategies accordingly.
 
-Glimps of Project 
+# Glimps of Project 
+
+![Screenshot 2024-10-01 230755](https://github.com/user-attachments/assets/4ec04d2f-201b-4744-9fcb-1bb69f595b78)
+
+![Screenshot 2024-10-01 230826](https://github.com/user-attachments/assets/79155eff-f9d7-4dc9-b393-9260987d59d3)
+
 
 
 
